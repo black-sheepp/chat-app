@@ -27,8 +27,8 @@ export default function Register() {
                          Sign Up
                     </button>
                     <p className="signup-link">
-                         No account?
-                         {/* <a href="">Sign up</a> */}
+                         Have an account?
+                         <a href="">Sign In</a>
                     </p>
                </form>
           </div>
