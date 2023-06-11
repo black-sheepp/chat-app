@@ -1,5 +1,5 @@
 .home{
-    background-color: #4F46E5;
+    background-color: #181818;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .container{
-    border: 1px solid white;
+    border: 0px solid white;
     border-radius: 15px;
     height: 70%;
     width: 75%;

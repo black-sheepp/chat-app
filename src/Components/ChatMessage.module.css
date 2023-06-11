@@ -1,0 +1,30 @@
+.incomingmsg{
+    display: inline-flex;
+    background-color: #f4a261;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.outgoingmsg{
+    display: inline-flex;
+    background-color: #2a9d8f;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.leftside{
+    display: flex;
+}
+
+.rightside{
+    display: flex;
+    float: right;
+}
+
+.profileIcon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}

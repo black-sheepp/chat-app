@@ -1,7 +1,7 @@
 .card {
   width: 100%;
-  height: 100px;
-  background: #023e8a;
+  height: 120px;
+  background: #381820;
   transition: .2s linear;
   cursor: default;
   border-radius: 15px 0 0 0;
@@ -12,6 +12,14 @@
   height: 70%;
   padding: 15px;
   display: flex;
+}
+
+.signout{
+  border: none;
+  border-radius: 5px;
+  background-color: #f20089;
+  padding: 5px;
+  width: 70px;
 }
 
 .left_part {

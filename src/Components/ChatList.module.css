@@ -1,0 +1,20 @@
+.inbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inboxHead{
+    width: 90%;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+}
+
+.inboxHead>img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 6px;
+}
