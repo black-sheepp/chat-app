@@ -16,6 +16,11 @@
     display: flex;
 }
 
+.TimeInfo{
+    padding: 8px;
+    padding-top: 40px;
+}
+
 .rightside{
     display: flex;
     float: right;

@@ -19,7 +19,7 @@ export default function Signin() {
                     </button>
                     <p className="signup-link">
                          No account?
-                         <a href="">Sign up</a>
+                         {/* <link href="">Sign up</link> */}
                     </p>
                </form>
           </div>

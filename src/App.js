@@ -7,6 +7,8 @@ import Home from './Pages/Home'
 function App() {
   return (
     <>
+      <Register/>
+      <Signin/>
       <Home/>
     </>
   );

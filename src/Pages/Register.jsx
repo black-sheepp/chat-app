@@ -19,7 +19,7 @@ export default function Register() {
                          <input type="password" placeholder="Enter password" />
                     </div>
                     <div className={Styles.input_container}>
-                         <i class="fa-solid fa-user" color="#4F46E5"></i>
+                         <i className="fa-solid fa-user" color="#4F46E5"></i>
                          <label style={{color: "#4F46E5"}} htmlFor="file">Upload Avatar</label>
                          <input type="file" style={{display: "none"}} id="file" placeholder="Enter password" />
                     </div>
@@ -28,7 +28,7 @@ export default function Register() {
                     </button>
                     <p className="signup-link">
                          Have an account?
-                         <a href="">Sign In</a>
+                         {/* <link href="">Sign In</link> */}
                     </p>
                </form>
           </div>
